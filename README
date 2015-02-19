@@ -1,0 +1,7 @@
+IBM Model 1 and 2 Implementation
+
+usage:
+python newalign.py > outputfile
+
+use score-alignments to get an AER on alignments
+./score-alignments < outputfile
